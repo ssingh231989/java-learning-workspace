@@ -3,6 +3,10 @@ package com.interview.practise;
 import java.util.Stack;
 
 public class StackDemo {
+
+    public StackDemo(){
+        super();
+    }
     public static void main(String ar[]){
 
         Stack<String> s = new Stack<>();

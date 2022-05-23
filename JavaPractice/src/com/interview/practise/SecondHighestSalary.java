@@ -74,7 +74,7 @@ class Person {
                 "name='" + name + '\'' +
                 ", salary=" + salary +
                 '}';
-    }
+    }l
 }
 
 class Student {
